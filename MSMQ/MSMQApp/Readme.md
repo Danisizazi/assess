@@ -1,5 +1,5 @@
-MSMQ:
 	Assumptions: 
+		-The user can run the application on Visual Studio, preferrably 2022	
 		-MSMQ has been enabled in the server.
 		-The user is able to check the if there are messages in the queue, from the 'Services and Applications - Message Queueing' window.
 		-MSMQ.Messaging has been package has been installed in VS2022
