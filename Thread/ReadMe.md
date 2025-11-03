@@ -1,5 +1,6 @@
-Threads:
+Assumptions:
+	-The user can run the application on Visual Studio, preferrably 2022	
 	-The user is familiar with MSTest, using multiple test values.
-	-Unit tests are in the ‘FactorialTest’ project.
+	-Unit tests are in the â€˜FactorialTestâ€™ project.
 	-User understands that threads will access a resource at the same time, if it not locked. In this scenario, the threads use the same 'PrintFactorial' method.
 	
