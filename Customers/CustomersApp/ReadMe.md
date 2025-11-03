@@ -1,5 +1,5 @@
-CustomersApp:
 	Assumptions:
+		-The user can run the application on Visual Studio, preferrably 2022	
 		-The user has access to MSSQL server (localhost), with CRUD operations permissions.
 		-The user can create local database called AssessmentDb.
 		-The user can run a sql script and create the schema and the data. The scripts is provided (.\sql\Customers.sql).
