@@ -1,0 +1,14 @@
+C:\dev\Thread\ThreadApp\bin\Debug\net8.0\ThreadApp.exe
+C:\dev\Thread\ThreadApp\bin\Debug\net8.0\ThreadApp.deps.json
+C:\dev\Thread\ThreadApp\bin\Debug\net8.0\ThreadApp.runtimeconfig.json
+C:\dev\Thread\ThreadApp\bin\Debug\net8.0\ThreadApp.dll
+C:\dev\Thread\ThreadApp\bin\Debug\net8.0\ThreadApp.pdb
+C:\dev\Thread\ThreadApp\obj\Debug\net8.0\ThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Thread\ThreadApp\obj\Debug\net8.0\ThreadApp.AssemblyInfoInputs.cache
+C:\dev\Thread\ThreadApp\obj\Debug\net8.0\ThreadApp.AssemblyInfo.cs
+C:\dev\Thread\ThreadApp\obj\Debug\net8.0\ThreadApp.csproj.CoreCompileInputs.cache
+C:\dev\Thread\ThreadApp\obj\Debug\net8.0\ThreadApp.dll
+C:\dev\Thread\ThreadApp\obj\Debug\net8.0\refint\ThreadApp.dll
+C:\dev\Thread\ThreadApp\obj\Debug\net8.0\ThreadApp.pdb
+C:\dev\Thread\ThreadApp\obj\Debug\net8.0\ThreadApp.genruntimeconfig.cache
+C:\dev\Thread\ThreadApp\obj\Debug\net8.0\ref\ThreadApp.dll

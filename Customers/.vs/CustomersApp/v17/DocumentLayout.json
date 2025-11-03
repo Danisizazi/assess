@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Customers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B20CBC63-E091-4446-3159-8088B72AEBBF}|CustomersApp\\CustomersApp.csproj|c:\\dev\\customers\\customersapp\\readme.md||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B20CBC63-E091-4446-3159-8088B72AEBBF}|CustomersApp\\CustomersApp.csproj|solutionrelative:customersapp\\readme.md||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20CBC63-E091-4446-3159-8088B72AEBBF}|CustomersApp\\CustomersApp.csproj|c:\\dev\\customers\\customersapp\\readme.md||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B20CBC63-E091-4446-3159-8088B72AEBBF}|CustomersApp\\CustomersApp.csproj|solutionrelative:customersapp\\readme.md||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.md ",
+              "DocumentMoniker": "C:\\dev\\Customers\\CustomersApp\\ReadMe.md",
+              "RelativeDocumentMoniker": "CustomersApp\\ReadMe.md",
+              "ToolTip": "C:\\dev\\Customers\\CustomersApp\\ReadMe.md",
+              "RelativeToolTip": "CustomersApp\\ReadMe.md",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-03T02:56:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
